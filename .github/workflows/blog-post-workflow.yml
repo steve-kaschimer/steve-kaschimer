@@ -6,13 +6,16 @@ on:
     - cron: "0 6 * * 1"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: steve-kaschimer/blog-post-workflow@master
         with:
           feed_list: "https://steve-kaschimer.github.io/feed/"
           max_post_count: 5
