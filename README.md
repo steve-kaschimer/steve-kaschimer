@@ -91,11 +91,11 @@ A few things I spend most of my time on:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actions: Reusable Workflows vs. Composite Actions — Know the Difference](https://steve-kaschimer.github.io/posts/2026-03-13-github-actions-reusable-workflows-vs-composite-actions/)
 - [GitHub Advanced Security: What You Get and How to Use It](https://steve-kaschimer.github.io/posts/2025-12-15-github-advanced-security/)
 - [DevSecOps Metrics That Matter: What to Measure, How to Track It in GitHub, and Why It Matters](https://steve-kaschimer.github.io/posts/2025-12-08-devsecops-metrics-that-matter/)
 - [DevOps Culture: What It Is, Why It Exists, and Why It Matters](https://steve-kaschimer.github.io/posts/2025-12-01-devops-culture/)
 - [CodeQL Deep Dive: Static Analysis for DevSecOps Engineers](https://steve-kaschimer.github.io/posts/2025-11-24-codeql-deep-dive-static-analysis-for-devops-engineers/)
-- [Shift Left Without Slowing Down: DevSecOps Pipeline Design](https://steve-kaschimer.github.io/posts/2025-11-17-shift-left-without-slowing-down/)
 <!-- BLOG-POST-LIST:END -->
 
 **Topics I write about:**
