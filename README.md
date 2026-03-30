@@ -91,11 +91,11 @@ A few things I spend most of my time on:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dependabot Advanced: Getting Past the Noise](https://steve-kaschimer.github.io/posts/2026-03-27-dependabot-advanced-getting-past-the-noise/)
+- [The GitHub Actions `permissions` Block: Principle of Least Privilege for Workflows](https://steve-kaschimer.github.io/posts/2026-03-25-github-actions-permissions-block/)
 - [Trunk-Based Development in Practice: What They Don&#39;t Tell You](https://steve-kaschimer.github.io/posts/2026-03-20-trunk-based-development-in-practice/)
 - [Deploying to GitHub Pages with GitHub Actions: Beyond the Defaults](https://steve-kaschimer.github.io/posts/2026-03-18-deploying-to-github-pages-beyond-the-defaults/)
 - [GitHub Actions: Reusable Workflows vs. Composite Actions — Know the Difference](https://steve-kaschimer.github.io/posts/2026-03-13-github-actions-reusable-workflows-vs-composite-actions/)
-- [GitHub Advanced Security: What You Get and How to Use It](https://steve-kaschimer.github.io/posts/2025-12-15-github-advanced-security/)
-- [DevSecOps Metrics That Matter: What to Measure, How to Track It in GitHub, and Why It Matters](https://steve-kaschimer.github.io/posts/2025-12-08-devsecops-metrics-that-matter/)
 <!-- BLOG-POST-LIST:END -->
 
 **Topics I write about:**
