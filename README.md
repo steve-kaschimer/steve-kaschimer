@@ -91,11 +91,11 @@ A few things I spend most of my time on:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding CVSS Scores: A Practical Guide for Developers](https://steve-kaschimer.github.io/posts/2026-04-03-understanding-cvss-scores/)
+- [Tailwind CSS v4: What Actually Changed and How to Migrate](https://steve-kaschimer.github.io/posts/2026-04-01-tailwind-css-v4-migration/)
 - [Dependabot Advanced: Getting Past the Noise](https://steve-kaschimer.github.io/posts/2026-03-27-dependabot-advanced-getting-past-the-noise/)
 - [The GitHub Actions `permissions` Block: Principle of Least Privilege for Workflows](https://steve-kaschimer.github.io/posts/2026-03-25-github-actions-permissions-block/)
 - [Trunk-Based Development in Practice: What They Don&#39;t Tell You](https://steve-kaschimer.github.io/posts/2026-03-20-trunk-based-development-in-practice/)
-- [Deploying to GitHub Pages with GitHub Actions: Beyond the Defaults](https://steve-kaschimer.github.io/posts/2026-03-18-deploying-to-github-pages-beyond-the-defaults/)
-- [GitHub Actions: Reusable Workflows vs. Composite Actions — Know the Difference](https://steve-kaschimer.github.io/posts/2026-03-13-github-actions-reusable-workflows-vs-composite-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 **Topics I write about:**
