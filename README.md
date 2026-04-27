@@ -91,11 +91,11 @@ A few things I spend most of my time on:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing Commit Messages That Make Code Review Faster](https://steve-kaschimer.github.io/posts/2026-04-24-writing-commit-messages-that-make-code-review-faster/)
 - [GitHub CLI Power User: 10 `gh` Commands That Replace Browser Tabs](https://steve-kaschimer.github.io/posts/2026-04-17-github-cli-power-user/)
 - [Generating and Using SBOMs with GitHub Actions](https://steve-kaschimer.github.io/posts/2026-04-10-generating-and-using-sboms-with-github-actions/)
 - [Understanding CVSS Scores: A Practical Guide for Developers](https://steve-kaschimer.github.io/posts/2026-04-03-understanding-cvss-scores/)
 - [Tailwind CSS v4: What Actually Changed and How to Migrate](https://steve-kaschimer.github.io/posts/2026-04-01-tailwind-css-v4-migration/)
-- [Dependabot Advanced: Getting Past the Noise](https://steve-kaschimer.github.io/posts/2026-03-27-dependabot-advanced-getting-past-the-noise/)
 <!-- BLOG-POST-LIST:END -->
 
 **Topics I write about:**
