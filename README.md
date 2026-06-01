@@ -91,11 +91,11 @@ A few things I spend most of my time on:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Enforcing Code Quality with GitHub Actions Status Checks You Can Actually Trust](https://steve-kaschimer.github.io/posts/2026-05-29-github-actions-status-checks-you-can-trust/)
 - [Shift Right: Why Production Observability Is a Security Practice](https://steve-kaschimer.github.io/posts/2026-05-15-shift-right-observability-as-a-security-practice/)
 - [GitHub Branch Protection Rules vs. Rulesets: The New Way to Enforce Standards](https://steve-kaschimer.github.io/posts/2026-05-08-github-branch-protection-rules-vs-rulesets/)
 - [Architecture Decision Records: The 30-Minute Investment That Pays Off for Years](https://steve-kaschimer.github.io/posts/2026-05-01-architecture-decision-records/)
 - [Writing Commit Messages That Make Code Review Faster](https://steve-kaschimer.github.io/posts/2026-04-24-writing-commit-messages-that-make-code-review-faster/)
-- [GitHub CLI Power User: 10 `gh` Commands That Replace Browser Tabs](https://steve-kaschimer.github.io/posts/2026-04-17-github-cli-power-user/)
 <!-- BLOG-POST-LIST:END -->
 
 **Topics I write about:**
