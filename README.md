@@ -91,11 +91,11 @@ A few things I spend most of my time on:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Projects Automation: Custom Fields, Workflows, and the GraphQL API](https://steve-kaschimer.github.io/posts/2026-06-26-github-projects-automation-custom-fields-workflows-graphql-api/)
 - [Azure AI Foundry: A Developer&#39;s First Look at Agentic AI Workflows](https://steve-kaschimer.github.io/posts/2026-06-19-azure-ai-foundry-first-look-agentic-ai-workflows/)
 - [OpenID Connect in GitHub Actions: Replacing Long-Lived Secrets with Short-Lived Tokens](https://steve-kaschimer.github.io/posts/2026-06-12-oidc-in-github-actions/)
 - [GitHub Copilot in CI: Automating Code Review at Scale](https://steve-kaschimer.github.io/posts/2026-06-05-github-copilot-in-ci/)
 - [Enforcing Code Quality with GitHub Actions Status Checks You Can Actually Trust](https://steve-kaschimer.github.io/posts/2026-05-29-github-actions-status-checks-you-can-trust/)
-- [Shift Right: Why Production Observability Is a Security Practice](https://steve-kaschimer.github.io/posts/2026-05-15-shift-right-observability-as-a-security-practice/)
 <!-- BLOG-POST-LIST:END -->
 
 **Topics I write about:**
