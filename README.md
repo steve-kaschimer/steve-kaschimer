@@ -91,11 +91,11 @@ A few things I spend most of my time on:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Container Image Security in CI: Scanning with Trivy and GitHub Advanced Security](https://steve-kaschimer.github.io/posts/2026-07-17-container-image-security-trivy-github-advanced-security/)
 - [GitHub Actions Advanced Caching: Strategies That Actually Cut Build Times](https://steve-kaschimer.github.io/posts/2026-07-10-github-actions-advanced-caching-strategies/)
 - [Semantic Kernel and Azure AI Foundry: Building Your First AI Agent in .NET](https://steve-kaschimer.github.io/posts/2026-07-03-semantic-kernel-azure-ai-foundry-first-agent-dotnet/)
 - [GitHub Projects Automation: Custom Fields, Workflows, and the GraphQL API](https://steve-kaschimer.github.io/posts/2026-06-26-github-projects-automation-custom-fields-workflows-graphql-api/)
 - [Azure AI Foundry: A Developer&#39;s First Look at Agentic AI Workflows](https://steve-kaschimer.github.io/posts/2026-06-19-azure-ai-foundry-first-look-agentic-ai-workflows/)
-- [OpenID Connect in GitHub Actions: Replacing Long-Lived Secrets with Short-Lived Tokens](https://steve-kaschimer.github.io/posts/2026-06-12-oidc-in-github-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 **Topics I write about:**
