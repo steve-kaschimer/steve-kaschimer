@@ -91,11 +91,11 @@ A few things I spend most of my time on:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Environments Deep Dive: Deployment Protection Rules, Secrets, and Variables](https://steve-kaschimer.github.io/posts/2026-08-14-github-environments-deep-dive/)
 - [Prompt Engineering for Developers: Writing Reliable Instructions for Agentic Systems](https://steve-kaschimer.github.io/posts/2026-08-07-prompt-engineering-for-developers/)
 - [IaC Security Scanning in CI: Catching Terraform and Bicep Misconfigurations Before They Deploy](https://steve-kaschimer.github.io/posts/2026-07-31-iac-security-scanning-terraform-bicep-ci/)
 - [Multi-Agent Patterns with Azure AI Foundry: Orchestration, Handoff, and Shared State](https://steve-kaschimer.github.io/posts/2026-07-24-multi-agent-patterns-azure-ai-foundry-orchestration-handoff-shared-state/)
 - [Container Image Security in CI: Scanning with Trivy and GitHub Advanced Security](https://steve-kaschimer.github.io/posts/2026-07-17-container-image-security-trivy-github-advanced-security/)
-- [GitHub Actions Advanced Caching: Strategies That Actually Cut Build Times](https://steve-kaschimer.github.io/posts/2026-07-10-github-actions-advanced-caching-strategies/)
 <!-- BLOG-POST-LIST:END -->
 
 **Topics I write about:**
