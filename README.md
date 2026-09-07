@@ -91,11 +91,11 @@ A few things I spend most of my time on:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure AI Foundry Agents: Memory, Tool Calling, and Retrieval-Augmented Generation](https://steve-kaschimer.github.io/posts/2026-09-04-azure-ai-foundry-agents-memory-tool-calling-rag/)
+- [Getting Started with GitHub Copilot: Setup, Environment, and Best Practices](https://steve-kaschimer.github.io/posts/2026-09-01-getting-started-with-github-copilot/)
 - [GitHub Secret Scanning Custom Patterns: Finding Business-Specific Credentials Before They Ship](https://steve-kaschimer.github.io/posts/2026-08-28-github-secret-scanning-custom-patterns/)
 - [Getting Started with Claude Code: Setup, Environment, and Best Practices](https://steve-kaschimer.github.io/posts/2026-08-25-getting-started-with-claude-code/)
 - [Evaluating LLM Outputs in CI/CD: Testing Your AI Features Like Production Code](https://steve-kaschimer.github.io/posts/2026-08-21-evaluating-llm-outputs-in-ci-cd/)
-- [The Top 5 AI Coding Agents Compared: Which One Should You Choose?](https://steve-kaschimer.github.io/posts/2026-08-18-top-5-ai-coding-agents-compared/)
-- [GitHub Environments Deep Dive: Deployment Protection Rules, Secrets, and Variables](https://steve-kaschimer.github.io/posts/2026-08-14-github-environments-deep-dive/)
 <!-- BLOG-POST-LIST:END -->
 
 **Topics I write about:**
