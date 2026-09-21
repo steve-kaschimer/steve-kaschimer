@@ -91,11 +91,11 @@ A few things I spend most of my time on:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [RAG in Production: Chunking, Indexing, and Observability with Azure AI Search](https://steve-kaschimer.github.io/posts/2026-09-18-rag-in-production-chunking-indexing-observability-azure-ai-search/)
+- [Getting Started with Cursor: Setup, Environment, and Best Practices](https://steve-kaschimer.github.io/posts/2026-09-15-getting-started-with-cursor/)
 - [GitHub Merge Queues: Safe, Scalable Merging Without Branch Protection Bottlenecks](https://steve-kaschimer.github.io/posts/2026-09-11-github-merge-queues/)
 - [Getting Started with OpenAI Codex: Setup, Environment, and Best Practices](https://steve-kaschimer.github.io/posts/2026-09-08-getting-started-with-openai-codex/)
 - [Azure AI Foundry Agents: Memory, Tool Calling, and Retrieval-Augmented Generation](https://steve-kaschimer.github.io/posts/2026-09-04-azure-ai-foundry-agents-memory-tool-calling-rag/)
-- [Getting Started with GitHub Copilot: Setup, Environment, and Best Practices](https://steve-kaschimer.github.io/posts/2026-09-01-getting-started-with-github-copilot/)
-- [GitHub Secret Scanning Custom Patterns: Finding Business-Specific Credentials Before They Ship](https://steve-kaschimer.github.io/posts/2026-08-28-github-secret-scanning-custom-patterns/)
 <!-- BLOG-POST-LIST:END -->
 
 **Topics I write about:**
