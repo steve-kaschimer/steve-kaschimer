@@ -91,11 +91,11 @@ A few things I spend most of my time on:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Packages as an Internal Registry: Publishing and Consuming npm, Docker, and Maven Artifacts](https://steve-kaschimer.github.io/posts/2026-09-25-github-packages-internal-registry/)
+- [Getting Started with Kiro: Setup, Environment, and Best Practices](https://steve-kaschimer.github.io/posts/2026-09-22-getting-started-with-kiro/)
 - [RAG in Production: Chunking, Indexing, and Observability with Azure AI Search](https://steve-kaschimer.github.io/posts/2026-09-18-rag-in-production-chunking-indexing-observability-azure-ai-search/)
 - [Getting Started with Cursor: Setup, Environment, and Best Practices](https://steve-kaschimer.github.io/posts/2026-09-15-getting-started-with-cursor/)
 - [GitHub Merge Queues: Safe, Scalable Merging Without Branch Protection Bottlenecks](https://steve-kaschimer.github.io/posts/2026-09-11-github-merge-queues/)
-- [Getting Started with OpenAI Codex: Setup, Environment, and Best Practices](https://steve-kaschimer.github.io/posts/2026-09-08-getting-started-with-openai-codex/)
-- [Azure AI Foundry Agents: Memory, Tool Calling, and Retrieval-Augmented Generation](https://steve-kaschimer.github.io/posts/2026-09-04-azure-ai-foundry-agents-memory-tool-calling-rag/)
 <!-- BLOG-POST-LIST:END -->
 
 **Topics I write about:**
