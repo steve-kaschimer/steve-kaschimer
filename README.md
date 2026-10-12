@@ -91,11 +91,11 @@ A few things I spend most of my time on:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Codespaces for Team Onboarding: Eliminating &quot;Works on My Machine&quot; at Scale](https://steve-kaschimer.github.io/posts/2026-10-09-github-codespaces-team-onboarding/)
+- [Getting Started with Clean Architecture in .NET](https://steve-kaschimer.github.io/posts/2026-10-06-getting-started-with-clean-architecture-dotnet/)
 - [Responsible AI in the SDLC: Governance Gates You Can Automate with GitHub Actions](https://steve-kaschimer.github.io/posts/2026-10-02-responsible-ai-governance-gates-github-actions/)
 - [The Top 5 .NET Architecture Patterns Compared: Which One Should You Choose?](https://steve-kaschimer.github.io/posts/2026-09-29-top-5-dotnet-architecture-patterns-compared/)
 - [GitHub Packages as an Internal Registry: Publishing and Consuming npm, Docker, and Maven Artifacts](https://steve-kaschimer.github.io/posts/2026-09-25-github-packages-internal-registry/)
-- [Getting Started with Kiro: Setup, Environment, and Best Practices](https://steve-kaschimer.github.io/posts/2026-09-22-getting-started-with-kiro/)
-- [RAG in Production: Chunking, Indexing, and Observability with Azure AI Search](https://steve-kaschimer.github.io/posts/2026-09-18-rag-in-production-chunking-indexing-observability-azure-ai-search/)
 <!-- BLOG-POST-LIST:END -->
 
 **Topics I write about:**
