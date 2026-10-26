@@ -91,11 +91,11 @@ A few things I spend most of my time on:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actions Self-Hosted Runners: Security Hardening for Production Workloads](https://steve-kaschimer.github.io/posts/2026-10-23-github-actions-self-hosted-runners-security-hardening/)
+- [Getting Started with Vertical Slice Architecture in .NET](https://steve-kaschimer.github.io/posts/2026-10-20-getting-started-with-vertical-slice-architecture-dotnet/)
 - [Agentic Code Review: Using AI Agents to Enforce Architecture Rules on Every PR](https://steve-kaschimer.github.io/posts/2026-10-16-agentic-code-review-architecture-rules/)
 - [Getting Started with Layered &lpar;N-Tier&rpar; Architecture in .NET](https://steve-kaschimer.github.io/posts/2026-10-13-getting-started-with-layered-architecture-dotnet/)
 - [GitHub Codespaces for Team Onboarding: Eliminating &quot;Works on My Machine&quot; at Scale](https://steve-kaschimer.github.io/posts/2026-10-09-github-codespaces-team-onboarding/)
-- [Getting Started with Clean Architecture in .NET](https://steve-kaschimer.github.io/posts/2026-10-06-getting-started-with-clean-architecture-dotnet/)
-- [Responsible AI in the SDLC: Governance Gates You Can Automate with GitHub Actions](https://steve-kaschimer.github.io/posts/2026-10-02-responsible-ai-governance-gates-github-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 **Topics I write about:**
