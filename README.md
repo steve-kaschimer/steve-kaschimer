@@ -91,11 +91,11 @@ A few things I spend most of my time on:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure AI Foundry Fine-Tuning: When to Customize a Model vs. When to Prompt Better](https://steve-kaschimer.github.io/posts/2026-11-06-azure-ai-foundry-fine-tuning-customize-vs-prompt/)
+- [Getting Started with Microservices Architecture in .NET](https://steve-kaschimer.github.io/posts/2026-11-03-getting-started-with-microservices-dotnet/)
 - [LLMOps: Versioning, Testing, and Deploying Prompts as First-Class Artifacts](https://steve-kaschimer.github.io/posts/2026-10-30-llmops-versioning-testing-deploying-prompts/)
 - [Getting Started with Modular Monolith Architecture in .NET](https://steve-kaschimer.github.io/posts/2026-10-27-getting-started-with-modular-monolith-dotnet/)
 - [GitHub Actions Self-Hosted Runners: Security Hardening for Production Workloads](https://steve-kaschimer.github.io/posts/2026-10-23-github-actions-self-hosted-runners-security-hardening/)
-- [Getting Started with Vertical Slice Architecture in .NET](https://steve-kaschimer.github.io/posts/2026-10-20-getting-started-with-vertical-slice-architecture-dotnet/)
-- [Agentic Code Review: Using AI Agents to Enforce Architecture Rules on Every PR](https://steve-kaschimer.github.io/posts/2026-10-16-agentic-code-review-architecture-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 **Topics I write about:**
