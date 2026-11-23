@@ -91,11 +91,11 @@ A few things I spend most of my time on:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Internal Developer Platforms with GitHub: Backstage, Service Catalog, and the GitHub API](https://steve-kaschimer.github.io/posts/2026-11-20-internal-developer-platforms-backstage-github-api/)
+- [Getting Started with Microsoft.Extensions.Logging in ASP.NET Core](https://steve-kaschimer.github.io/posts/2026-11-17-getting-started-with-microsoft-extensions-logging-in-aspnet-core/)
 - [Policy as Code with OPA and GitHub Actions: Enforcing Org Standards at the Merge Gate](https://steve-kaschimer.github.io/posts/2026-11-13-policy-as-code-opa-github-actions/)
 - [The Top 5 .NET Logging Frameworks Compared: Which One Should You Choose?](https://steve-kaschimer.github.io/posts/2026-11-10-top-5-dotnet-logging-frameworks-compared/)
 - [Azure AI Foundry Fine-Tuning: When to Customize a Model vs. When to Prompt Better](https://steve-kaschimer.github.io/posts/2026-11-06-azure-ai-foundry-fine-tuning-customize-vs-prompt/)
-- [Getting Started with Microservices Architecture in .NET](https://steve-kaschimer.github.io/posts/2026-11-03-getting-started-with-microservices-dotnet/)
-- [LLMOps: Versioning, Testing, and Deploying Prompts as First-Class Artifacts](https://steve-kaschimer.github.io/posts/2026-10-30-llmops-versioning-testing-deploying-prompts/)
 <!-- BLOG-POST-LIST:END -->
 
 **Topics I write about:**
